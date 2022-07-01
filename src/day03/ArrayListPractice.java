@@ -1,7 +1,7 @@
 package day03;
 
 import java.util.Arrays;
-import java.util.ArrayList
+import java.util.ArrayList;
 
 public class ArrayListPractice {
 
@@ -18,6 +18,9 @@ public class ArrayListPractice {
         //ArrayList<Integer> num1 = new ArrayList<>(); //Bos ArrayList
         ArrayList<String> num1 = new ArrayList<>(Arrays.asList("bir", "iki", "uc")); //Bos ArrayList
         ArrayList<Integer> num2 = new ArrayList<>(Arrays.asList(1,2,3,4,5)); //Bos ArrayList
+
+        // Cmnd/ctrl X
+
 
 
 
