@@ -77,7 +77,7 @@ public class IteratorLooping {
         ));
 
             list1.removeIf(e-> e<=5);
-            System.out.println(list);
+            System.out.println(list1);
 
         }
 
