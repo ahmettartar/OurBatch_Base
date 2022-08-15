@@ -57,6 +57,8 @@ public class StreamExample {
         System.out.println(b);
         System.out.println(b1);
         System.out.println(b2);
+        
+        //JAVA DERSini tamamladik
 
     }
 }
